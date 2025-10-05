@@ -1,12 +1,3 @@
-👋 Hello, I'm debache mounsef.
-
-💞️ I'm in my third year Control engineering at the National Polytechnic School.
-
-👀 I'm interested in Reinforcement Learning  .
-
-🌱 Currently, I'm learning artificial intelligence .
-
-📫 You can reach me by email at monsaf.debbache@g.enp.edu.dz
 
 
 # 💻 Tech Stack:
