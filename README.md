@@ -67,3 +67,6 @@ M2 AI @ Télécom SudParis • Robotics / Perception / Deep Learning
 ## 📫 Contact
 - Email: debachemounsef@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mounsef-debache-500b10273/
+<p align="center">
+  <img src="bdcf62fe-affb-4230-b769-5ead68ef2022.jpg" alt="banner" />
+</p>
