@@ -12,7 +12,7 @@ M2 AI @ Télécom SudParis • Robotics / Perception / Deep Learning
 
 ## 🚀 What I do
 - 🤖 Autonomous systems: perception, localization, navigation
-- 🧠 Deep Learning: CNN/RNN/LSTM, Transformers (if applicable), model evaluation
+- 🧠 Deep Learning: CNN/RNN/LSTM, Transformers, model evaluation
 - 🛠️ Engineering: clean pipelines, experimentation, reproducibility
 
 ---
