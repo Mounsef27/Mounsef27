@@ -49,3 +49,6 @@
 ## 🤝 Let's connect
 
 I'm interested in opportunities and collaborations involving applied AI and machine learning engineering.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mounsef_Debache-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mounsef-debache-500b10273/)
+[![Email](https://img.shields.io/badge/Email-debachemounsef%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debachemounsef@gmail.com)
