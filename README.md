@@ -59,3 +59,9 @@ I'm interested in opportunities and collaborations involving applied AI and mach
   <img src="./koi/koi.gif" width="350" alt="My GitHub Koi">
 </div>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Python+%7C+PyTorch+%7C+MLOps;Building+Intelligent+AI+Systems" alt="Typing SVG" />
+</div>
+
+
