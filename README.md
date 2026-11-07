@@ -52,13 +52,6 @@ I'm interested in opportunities and collaborations involving applied AI and mach
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mounsef_Debache-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mounsef-debache-500b10273/)
 [![Email](https://img.shields.io/badge/Email-debachemounsef%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debachemounsef@gmail.com)
-
-
-<div align="center">
-  <h2>🐟 My GitHub Koi</h2>
-  <img src="./koi/koi.gif" width="350" alt="My GitHub Koi">
-</div>
-
 ## 🐍 Contribution snake
 
 <picture>
@@ -75,4 +68,8 @@ I'm interested in opportunities and collaborations involving applied AI and mach
     src="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg"
   />
 </picture>
+<div align="center">
+  <h2>🐟 My GitHub Koi</h2>
+  <img src="./koi/koi.gif" width="350" alt="My GitHub Koi">
+</div>
 
