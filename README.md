@@ -1,75 +1,93 @@
-<h1 align="center">Hi 👋, I'm Mounsef Debache</h1>
+<div align="center">
 
-<h3 align="center">AI & Machine Learning Engineer | Control Engineering Background</h3>
+# MOUNSEF DEBACHE
 
-<p align="center">
-  Building practical machine learning solutions with reproducible workflows and maintainable Python code.
-</p>
+**AI / Machine Learning Engineer** &nbsp;·&nbsp; **Python** &nbsp;·&nbsp; **MLOps**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1100&color=8B949E&center=true&vCenter=true&width=690&height=38&lines=Machine+Learning+%2F+Deep+Learning;LLMs+%2F+RAG+%2F+AI+Agents;Build.+Test.+Deploy." alt="Animated developer introduction" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/mounsef-debache-500b10273/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:debachemounsef@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Mounsef27)
+
+</div>
 
 ---
 
-## 👨‍💻 About me
+### About
 
-- 🎓 Engineering degree in **Automatic Control** — École Polytechnique d’Alger.
-- 🧠 M2 studies in **Artificial Intelligence, TRIED** — Télécom SudParis / Paris-Saclay.
-- 🔬 Background in **machine learning, deep learning, signal processing, and control systems**.
-- 🌱 Currently learning how to serve ML models.
-- 🔎 Open to **Data Scientist, AI Engineer, and Machine Learning Engineer** opportunities.
-- 📍 Based in **France**.
+AI / ML engineer with a control engineering background. I build machine learning systems with an emphasis on reproducibility, clean Python, and deployment.
 
-## 🛠️ Technical toolkit
+`France` &nbsp; `M2 Artificial Intelligence — Télécom SudParis / Paris-Saclay` &nbsp; `Control Engineering — École Polytechnique d'Alger`
 
-| Area | Technologies |
-|------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat) |
-| **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat) |
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
-| **MLOps & Cloud** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
-| **Development** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black) ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat) ![Bandit](https://img.shields.io/badge/Bandit-F7D154?style=flat) ![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=flat&logo=precommit&logoColor=black) |
-| **Documentation** | ![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=flat&logo=sphinx&logoColor=white) |
+**Focus:** Applied ML · Deep Learning · Generative AI · Agentic systems · MLOps  
+**Open to:** AI Engineer · Machine Learning Engineer · Data Scientist
 
-## 🧠 Interests
+### Tech stack
 
-- **Machine Learning & Deep Learning**
-- **Natural Language Processing**
-- **Generative AI & Diffusion Models**
-- **MLOps & ML Software Engineering**
-- **Control Theory & Intelligent Systems**
+**LLMs & agents**  
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=FFFFFF)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FFFFFF)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
 
-## 🏆 Achievements
+**ML & deep learning**  
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![CatBoost](https://img.shields.io/badge/CatBoost-0D1117?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
-- 🥉 **3rd place** — Yassir AI Hackathon, December 2024.
-- 🥉 **3rd place** — SynapseON, July 2024.
-- 🎓 **IFA Excellence Scholarship** recipient. july 2025
-## 🌍 Languages
+**Data & production**  
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
+![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=flat-square&logo=mlflow&logoColor=0194E2)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 
-**Arabic:** Native · **French:** Bilingual · **English:** Fluent
+**Developer tooling**  
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![uv](https://img.shields.io/badge/uv-0D1117?style=flat-square&logo=uv&logoColor=DE5FE9)
+![pytest](https://img.shields.io/badge/pytest-0D1117?style=flat-square&logo=pytest&logoColor=0A9EDC)
+![Ruff](https://img.shields.io/badge/Ruff-0D1117?style=flat-square&logo=ruff&logoColor=D7FF64)
+![pre-commit](https://img.shields.io/badge/pre--commit-0D1117?style=flat-square&logo=precommit&logoColor=FAB040)
+![Sphinx](https://img.shields.io/badge/Sphinx-0D1117?style=flat-square&logo=sphinx&logoColor=FFFFFF)
 
-## 🤝 Let's connect
+### Selected projects
 
-I'm interested in opportunities and collaborations involving applied AI and machine learning engineering.
+- **[Sephora Test](https://github.com/Mounsef27/sephora_test)** — NLP · ML Engineering
+- **[Classifier-Guided Diffusion](https://github.com/Mounsef27/classifier_guidance_diffusion_model)** — Generative AI · Deep Learning
+- **Keysonic** — Acoustic signal processing · Deep Learning
+- **[PolyMAZE](https://github.com/Mounsef27/PolyMAZE)** — Robotics · Embedded Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mounsef_Debache-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mounsef-debache-500b10273/)
-[![Email](https://img.shields.io/badge/Email-debachemounsef%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debachemounsef@gmail.com)
-## 🐍 Contribution snake
+[All repositories](https://github.com/Mounsef27?tab=repositories)
+
+### Engineering experience
+
+**Applied ML / recommendation systems** — customer propensity prediction, product ranking, temporal backtesting and experiment tracking. Python, CatBoost, XGBoost, PySpark, Databricks and MLflow.
+
+**LLM systems** — retrieval-augmented generation and experimentation with local LLMs and agent workflows.
+
+### Recognition
+
+`3rd` Yassir AI Hackathon · Dec 2024 &nbsp;·&nbsp; `3rd` SynapseON · Jul 2024 &nbsp;·&nbsp; `IFA Excellence Scholarship` 2025
+
+### Contributions
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg" />
 </picture>
+
 <div align="center">
-  <h2>🐟 My GitHub Koi</h2>
-  <img src="./koi/koi.gif" width="350" alt="My GitHub Koi">
+  <img src="./koi/koi.gif" width="280" alt="Git Koi generated from GitHub contributions" />
 </div>
 
+---
+
+<div align="center"><sub>Build. Test. Deploy.</sub></div>
