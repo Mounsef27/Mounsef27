@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # MOUNSEF DEBACHE
@@ -20,19 +21,22 @@ AI / ML engineer with a control engineering background. I build machine learning
 
 `France` &nbsp; `M2 Artificial Intelligence — Télécom SudParis / Paris-Saclay` &nbsp; `Control Engineering — École Polytechnique d'Alger`
 
-**Focus:** Applied ML · Deep Learning · Generative AI · Agentic systems · MLOps  
+**Focus:** Applied ML · Deep Learning · Generative AI · Agentic Systems · MLOps
+
 **Open to:** AI Engineer · Machine Learning Engineer · Data Scientist
 
 ### Tech stack
 
-**LLMs & agents**  
+**LLMs & Agents**
+
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=FFFFFF)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FFFFFF)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
 
-**ML & deep learning**  
+**ML & Deep Learning**
+
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![CatBoost](https://img.shields.io/badge/CatBoost-0D1117?style=flat-square)
@@ -40,7 +44,8 @@ AI / ML engineer with a control engineering background. I build machine learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
-**Data & production**  
+**Data & Production**
+
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
@@ -49,7 +54,8 @@ AI / ML engineer with a control engineering background. I build machine learning
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 
-**Developer tooling**  
+**Developer Tooling**
+
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
 ![uv](https://img.shields.io/badge/uv-0D1117?style=flat-square&logo=uv&logoColor=DE5FE9)
 ![pytest](https://img.shields.io/badge/pytest-0D1117?style=flat-square&logo=pytest&logoColor=0A9EDC)
@@ -57,37 +63,62 @@ AI / ML engineer with a control engineering background. I build machine learning
 ![pre-commit](https://img.shields.io/badge/pre--commit-0D1117?style=flat-square&logo=precommit&logoColor=FAB040)
 ![Sphinx](https://img.shields.io/badge/Sphinx-0D1117?style=flat-square&logo=sphinx&logoColor=FFFFFF)
 
-### Selected projects
+### Selected Projects
 
 - **[Sephora Test](https://github.com/Mounsef27/sephora_test)** — NLP · ML Engineering
 - **[Classifier-Guided Diffusion](https://github.com/Mounsef27/classifier_guidance_diffusion_model)** — Generative AI · Deep Learning
-- **Keysonic** — Acoustic signal processing · Deep Learning
+- **[Keysonic](https://github.com/Mounsef27/keysonic)** — Acoustic Signal Processing · Deep Learning
 - **[PolyMAZE](https://github.com/Mounsef27/PolyMAZE)** — Robotics · Embedded Systems
 
 [All repositories](https://github.com/Mounsef27?tab=repositories)
 
-### Engineering experience
+### Engineering Experience
 
-**Applied ML / recommendation systems** — customer propensity prediction, product ranking, temporal backtesting and experiment tracking. Python, CatBoost, XGBoost, PySpark, Databricks and MLflow.
+**Applied ML / Recommendation Systems**
 
-**LLM systems** — retrieval-augmented generation and experimentation with local LLMs and agent workflows.
+Customer propensity prediction, product ranking, temporal backtesting and experiment tracking.
+
+`Python` `CatBoost` `XGBoost` `PySpark` `Databricks` `MLflow`
+
+**LLM Systems**
+
+Retrieval-augmented generation, local LLMs and agentic workflows.
+
+`RAG` `LangChain` `LangGraph` `Ollama`
 
 ### Recognition
 
-`3rd` Yassir AI Hackathon · Dec 2024 &nbsp;·&nbsp; `3rd` SynapseON · Jul 2024 &nbsp;·&nbsp; `IFA Excellence Scholarship` 2025
+`3rd Place` Yassir AI Hackathon · Dec 2024
+
+`3rd Place` SynapseON · Jul 2024
+
+`IFA Excellence Scholarship` · 2025
 
 ### Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg"
+  />
+  <img
+    alt="Contribution snake"
+    src="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg"
+  />
 </picture>
 
 <div align="center">
-  <img src="./koi/koi.gif" width="280" alt="Git Koi generated from GitHub contributions" />
+
+<img src="./koi/koi.gif" width="280" alt="Git Koi generated from GitHub contributions" />
+
 </div>
 
 ---
 
-<div align="center"><sub>Build. Test. Deploy.</sub></div>
+<div align="center">
+  <sub>Build. Test. Deploy.</sub>
+</div>
