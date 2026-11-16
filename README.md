@@ -93,7 +93,6 @@ Retrieval-augmented generation, local LLMs and agentic workflows.
 `3rd Place` SynapseON · Jul 2024
 
 `IFA Excellence Scholarship` · 2025
----
 
 <div align="center">
   <sub>Build. Test. Deploy.</sub>
