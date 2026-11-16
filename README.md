@@ -93,30 +93,6 @@ Retrieval-augmented generation, local LLMs and agentic workflows.
 `3rd Place` SynapseON · Jul 2024
 
 `IFA Excellence Scholarship` · 2025
-
-### Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg"
-  />
-  <img
-    alt="Contribution snake"
-    src="https://raw.githubusercontent.com/Mounsef27/Mounsef27/output/github-snake.svg"
-  />
-</picture>
-
-<div align="center">
-
-<img src="./koi/koi.gif" width="280" alt="Git Koi generated from GitHub contributions" />
-
-</div>
-
 ---
 
 <div align="center">
